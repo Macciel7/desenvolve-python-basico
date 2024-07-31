@@ -1,0 +1,7 @@
+1. Início;
+2. Leia N;
+3. N1 = N-2
+4. N2= 10-N;
+5. R = (N1 * 10) + N2;
+6. Imprima R
+7. Fim
